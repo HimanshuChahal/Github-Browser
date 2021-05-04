@@ -1,6 +1,8 @@
 # Github-Browser
 The Github Browser Android Application allows the Users to see the details of their Github Repositories and allows them to create a new Repository and store them in the Device's Internal Storage.
 
+The Github Browser Android Application Code is pushed to the master branch.
+
 Instructions to run the Github Browser Android Application :-
 
   #1. Download the APK from the following link :- https://drive.google.com/file/d/1k5UcpvMFgSPdwiNVfsdFFySm9NYUfbd1/view?usp=sharing
